@@ -19,6 +19,6 @@ J'ai fait pareil pour la branche "guide" avec le fichier presentation.txt
 *echo "Je comprends rien" >> todolist.txt*
 *git init*
 *git add todolist.txt*
-*git commit -m "mise à jour de la branche"
+*git commit -m "mise à jour de la branche"*
 *git branch -M mael*
 *git push origin mael*
